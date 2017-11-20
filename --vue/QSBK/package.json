@@ -1,0 +1,24 @@
+{
+  "devDependencies": {
+    "css-loader": "^0.28.7",
+    "ejs": "^2.5.7",
+    "ejs-loader": "^0.3.0",
+    "file-loader": "^1.1.5",
+    "html-loader": "^0.5.1",
+    "jade": "^1.11.0",
+    "jade-loader": "^0.8.0",
+    "jquery": "^3.2.1",
+    "json-loader": "^0.5.7",
+    "node-sass": "^4.6.0",
+    "raw-loader": "^0.5.1",
+    "sass-loader": "^6.0.6",
+    "style-loader": "^0.19.0",
+    "url-loader": "^0.6.2",
+    "vue": "^2.5.3",
+    "vue-loader": "^13.5.0",
+    "vue-router": "^3.0.1",
+    "vue-template-compiler": "^2.5.3",
+    "vuex": "^3.0.1",
+    "webpack": "^3.8.0"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "project-nodejs",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "supervisor ./bin/www",
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.18.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "ejs": "~2.5.7",
+    "express": "~4.15.5",
+    "morgan": "~1.9.0",
+    "serve-favicon": "~2.4.5"
+  },
+  "devDependencies": {
+    "express-session": "^1.15.6",
+    "mongodb": "^2.2.33",
+    "session": "^0.1.0",
+    "supervisor": "^0.12.0"
+  }
+}
